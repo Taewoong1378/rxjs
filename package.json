@@ -1,0 +1,23 @@
+{
+  "name": "rxjs",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taewoong1378/rxjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taewoong1378/rxjs/issues"
+  },
+  "homepage": "https://github.com/Taewoong1378/rxjs#readme",
+  "dependencies": {
+    "rxjs": "^7.8.0"
+  }
+}
